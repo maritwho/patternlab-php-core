@@ -46,7 +46,7 @@
     "shudrum/array-finder": "^1.0",
     "symfony/event-dispatcher": "^3.0",
     "symfony/filesystem": "^3.0",
-    "symfony/finder": "^3.0",
+    "symfony/finder": "^4.0",
     "symfony/process": "^3.1",
     "symfony/yaml": "^3.0"
   }
